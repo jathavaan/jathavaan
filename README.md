@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:2d6a9f&height=180&section=header&text=Jathavaan%20Shankarr&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=55" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=460&lines=Engineering+%26+ICT+%40+NTNU;.NET+%7C+Azure;TypeScript+%7C+React;Python+%7C+Geospatial" alt="Typing SVG" />
-</p>
-
 <br/>
 
 <!-- Stats row — using a separate hosted instance to avoid rate limits -->
